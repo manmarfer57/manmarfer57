@@ -6,7 +6,7 @@ MANUEL MARTÍN</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2cxbno4NzA4eHcwMWYzdGhvYmd1YnljOXN3ZXE4cGJnNGppNG5ybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif">
 </a>
 
-<h3 align="center">Un Ingeniero Informático en Sistemas, muy motivado por aprovechar cada día mis habilidades y crecer profesionalmente. Tengo confianza en mi capacidad para diseñar y desarrollar código. Destacaría mi evolución en la capacidad de buscar soluciones a los problemas. &#127919;</h3>
+<h3 align="center">Ingeniero Informático en Sistemas, muy motivado por aprovechar cada día mis habilidades y crecer profesionalmente. Tengo confianza en mi capacidad para diseñar y desarrollar código. Destacaría mi evolución en la capacidad de buscar soluciones a los problemas. &#127919;</h3>
 <h3 align="center" > Redes: </h3>
 
 <p align="center">
